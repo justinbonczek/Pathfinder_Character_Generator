@@ -1,0 +1,20 @@
+Name: Chives
+Race: Dwarf
+Class: Bard
+Level: 1
+Speed: 20
+Health: 8
+Strength: 12
+Dexterity: 12
+Constitution: 10
+Intelligence: 13
+Wisdom: 10
+Charisma: 13
+Armor Class: 14
+Fortitude: 0
+Reflex: 3
+Will: 2
+Base Attack Bonus: 0
+Combat Maneuver Bonus: 1
+Combat Maneuver Defense: 12
+

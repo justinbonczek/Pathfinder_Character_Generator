@@ -1,0 +1,20 @@
+Name: Alex
+Race: Elf
+Class: Monk
+Level: 1
+Speed: 30
+Health: 8
+Strength: 15
+Dexterity: 15
+Constitution: 10
+Intelligence: 12
+Wisdom: 14
+Charisma: 8
+Armor Class: 16
+Fortitude: 2
+Reflex: 4
+Will: 4
+Base Attack Bonus: 0
+Combat Maneuver Bonus: 2
+Combat Maneuver Defense: 16
+

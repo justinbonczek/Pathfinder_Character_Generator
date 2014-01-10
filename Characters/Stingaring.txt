@@ -1,0 +1,20 @@
+Name: Stingaring
+Race: Gnome
+Class: Wizard
+Level: 1
+Speed: 20
+Health: 9
+Strength: 6
+Dexterity: 16
+Constitution: 17
+Intelligence: 18
+Wisdom: 9
+Charisma: 12
+Armor Class: 15
+Fortitude: 3
+Reflex: 3
+Will: 1
+Base Attack Bonus: 0
+Combat Maneuver Bonus: -3
+Combat Maneuver Defense: 10
+

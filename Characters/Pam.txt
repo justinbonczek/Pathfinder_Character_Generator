@@ -1,0 +1,20 @@
+Name: Pam
+Race: Half-Orc
+Class: Sorcerer
+Level: 1
+Speed: 30
+Health: 8
+Strength: 9
+Dexterity: 12
+Constitution: 15
+Intelligence: 11
+Wisdom: 10
+Charisma: 17
+Armor Class: 12
+Fortitude: 2
+Reflex: 1
+Will: 2
+Base Attack Bonus: 0
+Combat Maneuver Bonus: -1
+Combat Maneuver Defense: 10
+

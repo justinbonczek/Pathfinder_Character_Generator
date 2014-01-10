@@ -1,0 +1,20 @@
+Name: Carlos
+Race: Elf
+Class: Fighter
+Level: 1
+Speed: 30
+Health: 9
+Strength: 14
+Dexterity: 17
+Constitution: 9
+Intelligence: 9
+Wisdom: 12
+Charisma: 10
+Armor Class: 17
+Fortitude: 1
+Reflex: 3
+Will: 1
+Base Attack Bonus: 1
+Combat Maneuver Bonus: 3
+Combat Maneuver Defense: 16
+

@@ -1,0 +1,20 @@
+Name: Mike
+Race: Elf
+Class: Wizard
+Level: 1
+Speed: 30
+Health: 7
+Strength: 6
+Dexterity: 15
+Constitution: 13
+Intelligence: 20
+Wisdom: 7
+Charisma: 8
+Armor Class: 13
+Fortitude: 1
+Reflex: 2
+Will: 0
+Base Attack Bonus: 0
+Combat Maneuver Bonus: -2
+Combat Maneuver Defense: 10
+

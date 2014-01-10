@@ -1,0 +1,20 @@
+Name: Sue
+Race: Dwarf
+Class: Sorcerer
+Level: 1
+Speed: 20
+Health: 9
+Strength: 9
+Dexterity: 14
+Constitution: 17
+Intelligence: 12
+Wisdom: 12
+Charisma: 13
+Armor Class: 13
+Fortitude: 3
+Reflex: 2
+Will: 3
+Base Attack Bonus: 0
+Combat Maneuver Bonus: -1
+Combat Maneuver Defense: 11
+

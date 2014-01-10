@@ -1,0 +1,20 @@
+Name: 
+Race: Elf
+Class: Barbarian
+Level: 1
+Speed: 40
+Health: 12
+Strength: 15
+Dexterity: 14
+Constitution: 10
+Intelligence: 12
+Wisdom: 9
+Charisma: 8
+Armor Class: 14
+Fortitude: 2
+Reflex: 2
+Will: -1
+Base Attack Bonus: 1
+Combat Maneuver Bonus: 3
+Combat Maneuver Defense: 15
+

@@ -1,0 +1,20 @@
+Name: Annette
+Race: Half-Elf
+Class: Cleric
+Level: 1
+Speed: 30
+Health: 11
+Strength: 13
+Dexterity: 7
+Constitution: 16
+Intelligence: 9
+Wisdom: 14
+Charisma: 14
+Armor Class: 12
+Fortitude: 5
+Reflex: -2
+Will: 4
+Base Attack Bonus: 0
+Combat Maneuver Bonus: 1
+Combat Maneuver Defense: 9
+

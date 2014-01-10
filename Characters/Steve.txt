@@ -1,0 +1,20 @@
+Name: Steve
+Race: Elf
+Class: Rogue
+Level: 1
+Speed: 30
+Health: 9
+Strength: 10
+Dexterity: 19
+Constitution: 13
+Intelligence: 10
+Wisdom: 13
+Charisma: 8
+Armor Class: 16
+Fortitude: 1
+Reflex: 6
+Will: 1
+Base Attack Bonus: 1
+Combat Maneuver Bonus: 1
+Combat Maneuver Defense: 15
+
